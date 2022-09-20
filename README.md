@@ -1,3 +1,3 @@
-👋 Hi, I’m @Yetkin123
-👀 I’m interested in web development
-🌱 I’m currently learning JavaScript and Java
+- 👋 Hi, I’m @Yetkin123 <br />
+- 👀 I’m interested in web development <br />
+- 🌱 I’m currently learning JavaScript and Java <br />
